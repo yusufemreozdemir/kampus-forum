@@ -77,7 +77,7 @@ Aşağıda projenin farklı sayfalarından ekran görüntüleri yer alıyor.
 
 ## Tanıtım Videosu
 
-Projenin nasıl çalıştığını gösteren bir video:
+Projenin nasıl çalıştığını gösteren bir video: https://youtu.be/8TKnwdJuLag
 
 ## Veritabanı Yapısı
 
