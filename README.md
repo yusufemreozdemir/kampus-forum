@@ -5,7 +5,7 @@ Kampüs Forum, üniversite öğrencileri için geliştirilmiş, PHP ve MySQL tab
 ## Canlı Demo
 
 Projeyi canlı olarak şu adreste test edebilirsiniz:\
-http://95.130.171.20/\~st23360859007/index.html
+http://95.130.171.20/~st23360859007/index.html
 
 ## Özellikler
 
