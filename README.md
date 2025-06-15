@@ -1,6 +1,6 @@
 # Kampüs Forum
 
-Kampüs Forum, üniversite öğrencileri için geliştirilmiş, PHP ve MySQL tabanlı bir tartışma platformudur. Bu proje, bir **öğrenci projesi** olarak backend tarafında herhangi bir framework kullanılmadan **yalın PHP** koduyla yazılmıştır. Kullanıcılar konu açabilir, yanıt yazabilir, yanıtları beğenebilir, kendi yanıtlarını düzenleyebilir veya silebilir. Proje, temel web geliştirme becerilerini sergilemek be geliştirmek amacıyla oluşturulmuştur. İlerleyen zamanda çok daha geniş bir veritabanı ve modern teknolojilerle gerçek bir platform haline getirilmesi hedeflenmektedir.
+Kampüs Forum, üniversite öğrencileri için geliştirilmiş, PHP ve MySQL tabanlı bir tartışma platformudur. Bu proje, bir **öğrenci projesi** olarak backend tarafında herhangi bir framework kullanılmadan **yalın PHP** koduyla yazılmıştır. Kullanıcılar konu açabilir, yanıt yazabilir, yanıtları beğenebilir, kendi yanıtlarını düzenleyebilir veya silebilir. Proje, temel web geliştirme becerilerini sergilemek ve geliştirmek amacıyla oluşturulmuştur. İlerleyen zamanda çok daha geniş bir veritabanı ve modern teknolojilerle gerçek bir platform haline getirilmesi hedeflenmektedir.
 
 ## Canlı Demo
 
@@ -57,7 +57,7 @@ Aşağıda projenin farklı sayfalarından ekran görüntüleri yer alıyor.
 
 - **Ana Sayfa**:
 
-  ![Ana Sayfa](screenshots/ana_sayfa.png)
+  ![Ana Sayfa](screenshots/anasayfa.png)
 
 - **Giriş Sayfası**:
 
@@ -131,5 +131,5 @@ CREATE TABLE yanit_gecmisi (
 
 ## İletişim
 
-yusufemre7009@gmail.com
+yusufemre7009@gmail.com  
 Ayrıca sorularınız için GitHub Issues üzerinden iletişime geçebilirsiniz.
